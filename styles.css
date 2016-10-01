@@ -1,6 +1,36 @@
 body {
   padding: 5%;
   background-color: #f3f3f3;
+  font-family: Times New Roman;
+  background-color: black;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+}
+
+h3 {
+	text-align: center;
+	color: white;
+}
+
+.prob {
+	border: 3px blue solid;
+	padding: 3%;
+}
+form {
+	text-align: center;
+}
+
+table {
+	margin: auto;
+	color: gray;
 }
 
 .gradeBox {
@@ -8,4 +38,10 @@ body {
   height: 2em;
   background-color: white;
   margin: 1em 0;
+}
+
+
+p {
+	font-size: 16px;
+	color: gray;
 }
